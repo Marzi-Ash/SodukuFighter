@@ -18,6 +18,7 @@ To compile:
 2)Before compile you need to install the math, copy, time and tabulate packages for python (if already installed, fine)
 
 3)Be sure for the compiling write "python3 main.py input_file.txt" input file is a text file with the values between -1 and 24
-    3.a) Input is 625 (=25x25) integers in the range [-1,24], corresponding to the game-board serialized row-wise. -1 means the corresponding cell is blank, [0-24] corresponds to the number in the cell.
+    
+   3.a) Input is 625 (=25x25) integers in the range [-1,24], corresponding to the game-board serialized row-wise. -1 means the corresponding cell is blank, [0-24] corresponds to the number in the cell.
 
 4)Output is time and the solution (if there exists no solution, it will print "No Answer")
